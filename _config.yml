@@ -1,0 +1,28 @@
+name: "Metzli's Light @ Etsy"
+favicon: null
+layout_spectrum: 0.031969182193279266
+typography_spectrum: 0.49136228463612497
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.01805075304582715
+  lightness: 0.32226454373449087
+  saturation: 0.17907499731518328
+  rhythmicContrast: 0.5745358909480274
+purpose: []
