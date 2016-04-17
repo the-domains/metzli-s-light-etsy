@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.etsy.com/people/melycota'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - reiki
   - love
@@ -17,8 +17,8 @@ keywords:
   - master
   - supplies
 description: 'Meet Metzli, Shop Owner'
-datePublished: '2016-04-16T05:56:44.680Z'
-dateModified: '2016-04-16T05:56:16.129Z'
+datePublished: '2016-04-17T05:18:47.897Z'
+dateModified: '2016-04-17T05:18:03.361Z'
 author: []
 related: []
 app_links: []
